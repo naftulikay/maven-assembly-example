@@ -1,7 +1,7 @@
 maven-assembly-example
 ======================
 
-    Version: ${project.version}
+> Version: ${project.version}
 
 A nifty little project which demonstrates the awesomeness of the Maven Assembly
 Plugin. This project creates a really cool runnable distribution in tar.gz
