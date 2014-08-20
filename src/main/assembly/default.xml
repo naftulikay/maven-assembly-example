@@ -24,7 +24,7 @@
 			<outputDirectory></outputDirectory>
 			<filtered>true</filtered>
 			<includes>
-				<include>README</include>
+				<include>README.md</include>
 			</includes>
 		</fileSet>
 		<fileSet>
